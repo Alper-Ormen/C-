@@ -1,0 +1,15 @@
+D:\dev\flutter\projects\csharp\ödev\bin\Debug\net6.0\ödev.exe
+D:\dev\flutter\projects\csharp\ödev\bin\Debug\net6.0\ödev.deps.json
+D:\dev\flutter\projects\csharp\ödev\bin\Debug\net6.0\ödev.runtimeconfig.json
+D:\dev\flutter\projects\csharp\ödev\bin\Debug\net6.0\ödev.dll
+D:\dev\flutter\projects\csharp\ödev\bin\Debug\net6.0\ödev.pdb
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.csproj.AssemblyReference.cache
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.AssemblyInfoInputs.cache
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.AssemblyInfo.cs
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.csproj.CoreCompileInputs.cache
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.dll
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\refint\ödev.dll
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.pdb
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ödev.genruntimeconfig.cache
+D:\dev\flutter\projects\csharp\ödev\obj\Debug\net6.0\ref\ödev.dll
